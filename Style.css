@@ -1,0 +1,74 @@
+#title {
+	border:3px solid black;
+		border-radius:100px;
+	padding:10px;				/*generate space around content*/
+	background-color:white;
+	height:180px;
+}
+
+body {
+	background-color: #A9A9A9;
+}
+
+table {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+
+#Mp {
+	font-size:25px;
+	text-align:center;
+}
+
+p 	{
+	border:3px solid black;
+		border-radius:50px;
+	font-size:18px;
+	background-color:white;
+	margin-top:10px;	/*generate space around elements*/
+	margin-bottom:10px;
+	margin-left:80px;
+	margin-right:80px;
+		padding:25px;
+	color:black;
+	text-align:left;
+}
+
+h2	{
+	color:red;
+	font-size:25px;
+	text-align:center;
+}
+
+b {
+	color:black;
+	font-size:25px;
+}
+
+#parxikis img {
+	width:210px;
+	height:300px;
+		border-radius:30px;
+}
+
+#parxikis a {
+	color:black;
+	text-decoration:none;
+}
+
+#parxikis a:hover {
+	color:red;
+	text-decoration:none;
+}
+
+p a  {
+	color: black;
+	text-decoration:none;
+	font-weight: bold;
+}
+
+p a:hover  {
+	color:red;
+	text-decoration:none;
+}
