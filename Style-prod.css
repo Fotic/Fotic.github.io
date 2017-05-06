@@ -1,16 +1,303 @@
-.bold {
-	color:black;
-	font-size:25px;
+body {
+	background-image: url('images/bg.jpg');
+	background-color: black;
 }
 
-
-.link {
-	color: black;
+#SuperWrapper a {
+	color: white;
 	text-decoration:none;
 	font-weight: bold;
 }
 
-.link:hover  {
+#SuperWrapper a:hover {
 	color:red;
 	text-decoration:none;
+}
+
+#SuperWrapper {
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+font-family: arial, Helvetica, sans-serif;
+font-size: 12px;
+}
+
+#SuperWrapper p {
+margin: 0px;
+padding: 0px 0px 15px 0px;
+line-height: 20px;
+}
+
+#SuperWrapper h1 {
+padding: 5px 0px 15px 0px;
+margin: 0px;
+font-size: 26px;
+font-weight: bold;
+letter-spacing: -1px;
+color: #003366;
+}
+
+#SuperHeader {
+width:800px;
+height: 240px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/Header.jpg');
+}
+
+#SuperHeaderLogo {
+padding: 39px 0px 83px 50px;
+font-family: arial, Helvetica, sans-serif;
+font-size: 48px;
+letter-spacing: -3px;
+font-weight: bold;
+margin: 0px;
+color: #FFFFFF;
+text-shadow: 1px 1px 1px #000;
+}
+
+#SuperHeaderMenu {
+margin: 0px;
+}
+
+#SuperHeaderMenu ul.navi{
+padding: 0px;
+margin: 0px 0px 0px 0px;
+width: 800px;
+text-align: center;
+position: relative;
+}
+
+#SuperHeaderMenu ul.navi li{
+height: 22px;
+padding: 0 10px 0 10px;
+margin: 0px;
+display: inline;
+}
+
+#SuperHeaderMenu ul.navi li a{
+padding: 0px 8px 0px 8px;
+font: 18px arial, Helvetica, sans-serif;
+color: #FFFFFF;
+text-decoration: none;
+text-indent: 0px;
+font-weight: bold;
+margin: 0;
+width: inherit;
+letter-spacing: -1px;
+line-height: 30px;
+}
+
+#SuperHeaderMenu ul.navi li a:hover{
+color: #FFCC00;
+}
+
+#SuperContentsWrapper {
+width: 800px;
+background-image: url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/Contents.jpg');
+}
+
+#SuperContents {
+width: 800px;
+background-image: url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/ContentsTop.jpg');
+background-repeat: no-repeat;
+}
+
+#SuperContentsSub {
+padding: 30px 40px 0px 40px;
+}
+
+#SuperContentsSub ul{
+	font-size: medium;
+	font-weight: bold;
+}
+
+#SuperFooter {
+width: 800px;
+height: 44px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/Footer.jpg');
+}
+
+#SuperFooterLink {
+width: 800px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/BG.jpg');
+height: 100px;
+}
+
+#SuperBoxContents {
+padding: 0px 80px 0px 80px;
+margin: 0px;
+}
+
+#SuperBoxContents p {
+padding: 0px 0px 10px 0px;
+margin: 0px;
+line-height: 20px;
+}
+
+#SuperBoxContents ul {
+padding: 0px 0px 0px 28px;
+margin: 0px;
+list-style-type: disc;
+}
+
+#SuperBoxContents li {
+line-height: 20px;
+}
+
+#SuperPayment {
+width: 800px;
+}
+#SuperPaymentTop {
+width: 800px;
+height: 83px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/PaymentPolicyTop.jpg');
+}
+
+#SuperPaymentContents {
+width: 800px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/PaymentPolicyContents.jpg');
+}
+
+#SuperPaymentBottom {
+width: 800px;
+height: 53px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/PaymentPolicyBottom.jpg');
+}
+
+#SuperShipping {
+width: 800px;
+}
+
+#SuperShippingTop {
+width: 800px;
+height: 83px;
+background-image: url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/ShippingPolicyTop.jpg');
+}
+
+#SuperShippingContents {
+width: 800px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/ShippingPolicyContents.jpg');
+}
+
+#SuperShippingBottom {
+width: 800px;
+height: 53px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/ShippingPolicyBottom.jpg');
+}
+
+#SuperContacts {
+width: 800px;
+}
+
+#SuperContactsTop {
+width: 800px;
+height: 83px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/ContactsTop.jpg');
+}
+
+#SuperContactsContents {
+width: 800px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/ContactsContents.jpg');
+}
+#SuperContactsBottom {
+width: 800px;
+height: 53px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/ContactsBottom.jpg');
+}
+
+#SuperReturns {
+width: 800px;
+}
+
+#SuperReturnsTop {
+width: 800px;
+height: 83px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/ReturnsTop.jpg');
+}
+
+#SuperReturnsContents {
+width: 800px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/ReturnsContents.jpg');
+}
+
+#SuperReturnsBottom {
+width: 800px;
+height: 53px;
+background-image:url('http://www.superauctiontemplate.com/freebaytemplate/productimages/GeneralShopping11/HTML/images/ReturnsBottom.jpg');
+}
+
+/* HTML5 ELEMENTS */
+/* sub images > thumbnail list */
+ul#SuperThumbs, ul#SuperThumbs li {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+ul#SuperThumbs li {
+float: left;
+background: #ffffff;
+border: 1px solid #cccccc;
+margin: 0px 0px 10px 10px;
+padding: 8px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+
+ul#SuperThumbs a {
+float: left;
+display: block;
+width: 150px;
+height: 150px;
+line-height: 100px;
+overflow: hidden;
+position: relative;
+z-index: 1;
+}
+
+ul#SuperThumbs a img {
+float: left;
+width: 100%;
+height: 100%;
+border: 0px;
+}
+
+/* sub images > mouse over */
+ul#SuperThumbs a:hover {
+overflow: visible;
+z-index: 1000;
+border: none;
+}
+
+ul#SuperThumbs a:hover img {
+background: #ffffff;
+border: 1px solid #cccccc;
+padding: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+    position: absolute;
+    top:-20px;
+    left:-50px;
+    width: auto;
+    height: auto; 
+}
+
+/* sub images > clearing floats */
+ul#SuperThumbs:after, li#SuperThumbs:after {
+content: ".";
+display: block;
+height: 0;
+clear: both;
+visibility: hidden;
+}
+
+ul#SuperThumbs, li#SuperThumbs {
+display: block;
+}
+
+ul#SuperThumbs, li#SuperThumbs {
+min-height: 1%;
+}
+
+* html ul#SuperThumbs, * html li#SuperThumbs {
+height: 1%;
 }

@@ -1,19 +1,21 @@
 #title {
-	border:3px solid black;
+	border:3px solid #666666;
 		border-radius:100px;
 	padding:10px;				/*generate space around content*/
-	background-color:white;
+	background-color:black;
 	height:180px;
 }
 
 body {
-	background-color: #A9A9A9;
+	background-image: url('images/bg.jpg');
+	background-color: black;
 }
 
 table {
-    margin: auto;
-    width: 70%;
-    padding: 10px;
+	margin: auto;
+	width: 70%;
+	padding: 10px;
+	font-family: arial, Helvetica, sans-serif;
 }
 
 #Mp {
@@ -22,17 +24,18 @@ table {
 }
 
 p 	{
-	border:3px solid black;
+	border:3px solid #666666;
 		border-radius:50px;
 	font-size:18px;
-	background-color:white;
+	background-color:black;
 	margin-top:10px;	/*generate space around elements*/
 	margin-bottom:10px;
 	margin-left:80px;
 	margin-right:80px;
 		padding:25px;
-	color:black;
+	color:white;
 	text-align:left;
+	font-family: arial, Helvetica, sans-serif;
 }
 
 h2	{
@@ -42,7 +45,7 @@ h2	{
 }
 
 b {
-	color:black;
+	color:white;
 	font-size:25px;
 }
 
@@ -53,7 +56,7 @@ b {
 }
 
 #parxikis a {
-	color:black;
+	color:white;
 	text-decoration:none;
 }
 
@@ -63,7 +66,7 @@ b {
 }
 
 p a  {
-	color: black;
+	color: white;
 	text-decoration:none;
 	font-weight: bold;
 }
