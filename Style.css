@@ -2,7 +2,7 @@
 	border:3px solid #666666;
 		border-radius:100px;
 	padding:10px;				/*generate space around content*/
-	background-color:black;
+	background-image: url('images/bg2.jpg');
 	height:180px;
 }
 
@@ -27,7 +27,7 @@ p,#pay 	{
 	border:3px solid #666666;
 		border-radius:50px;
 	font-size:18px;
-	background-color:black;
+	background-image: url('images/bg2.jpg');
 	margin-top:10px;	/*generate space around elements*/
 	margin-bottom:10px;
 	margin-left:80px;
